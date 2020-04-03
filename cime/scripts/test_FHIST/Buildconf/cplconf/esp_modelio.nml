@@ -1,0 +1,13 @@
+&modelio
+  diri = "/network/rit/misc/scratch/cesm/ns742711/test_FHIST/bld/esp"
+  diro = "/network/rit/misc/scratch/cesm/ns742711/test_FHIST/run"
+  logfile = "esp.log.200402-164136"
+/
+&pio_inparm
+  pio_netcdf_format = ""
+  pio_numiotasks = -99
+  pio_rearranger = -99
+  pio_root = -99
+  pio_stride = -99
+  pio_typename = "nothing"
+/

@@ -1,0 +1,42 @@
+2020-04-02 15:29:12: ./create_newcase --case test_FHIST --res f09_f09_mg17 --compset FHIST --mach uatest
+ ---------------------------------------------------
+2020-04-02 15:29:12: Compset longname is HIST_CAM60_CLM50%SP_CICE%PRES_DOCN%DOM_MOSART_CISM2%NOEVOLVE_SWAV
+ ---------------------------------------------------
+2020-04-02 15:29:12: Compset specification file is /network/rit/lab/schiraldilab/repos/my_cesm_sandbox/components/cam//cime_config/config_compsets.xml
+ ---------------------------------------------------
+2020-04-02 15:29:12: Pes     specification file is /network/rit/lab/schiraldilab/repos/my_cesm_sandbox/components/cam//cime_config/config_pes.xml
+ ---------------------------------------------------
+2020-04-02 15:29:12: Forcing is Historic transient 
+ ---------------------------------------------------
+2020-04-02 15:29:12: Using None coupler instances
+ ---------------------------------------------------
+2020-04-02 15:29:12: Component ATM is CAM cam6 physics:
+ ---------------------------------------------------
+2020-04-02 15:29:12: ATM_GRID is 0.9x1.25
+ ---------------------------------------------------
+2020-04-02 15:29:12: Component LND is clm5.0:Satellite phenology:
+ ---------------------------------------------------
+2020-04-02 15:29:12: LND_GRID is 0.9x1.25
+ ---------------------------------------------------
+2020-04-02 15:29:12: Component ICE is Sea ICE (cice) model version 5 :prescribed cice
+ ---------------------------------------------------
+2020-04-02 15:29:12: ICE_GRID is 0.9x1.25
+ ---------------------------------------------------
+2020-04-02 15:29:12: Component OCN is DOCN   prescribed ocean mode
+ ---------------------------------------------------
+2020-04-02 15:29:12: OCN_GRID is 0.9x1.25
+ ---------------------------------------------------
+2020-04-02 15:29:12: Component ROF is MOSART: MOdel for Scale Adaptive River Transport
+ ---------------------------------------------------
+2020-04-02 15:29:12: ROF_GRID is r05
+ ---------------------------------------------------
+2020-04-02 15:29:12: Component GLC is cism2 (default, higher-order, can run in parallel):cism ice evolution turned off (this is the standard configuration unless you're explicitly interested in ice evolution):
+ ---------------------------------------------------
+2020-04-02 15:29:12: GLC_GRID is gland4
+ ---------------------------------------------------
+2020-04-02 15:29:12: Component WAV is Stub wave component
+ ---------------------------------------------------
+2020-04-02 15:29:12: WAV_GRID is null
+ ---------------------------------------------------
+2020-04-02 15:29:12: ESP_GRID is None
+ ---------------------------------------------------

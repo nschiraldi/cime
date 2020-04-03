@@ -1,0 +1,39 @@
+2020-04-02 15:29:52: case.build starting 
+ ---------------------------------------------------
+2020-04-02 15:29:52: case.build error 
+ERROR: ERROR: must invoke case.setup script before calling build script 
+ ---------------------------------------------------
+2020-04-02 15:30:02: case.setup starting 
+ ---------------------------------------------------
+2020-04-02 15:30:02: case.setup error 
+ERROR: inputdata root is not a directory or is not readable: /network/rit/misc/scratch/cesm_inputdata
+ ---------------------------------------------------
+2020-04-02 15:30:13: case.setup starting 
+ ---------------------------------------------------
+2020-04-02 15:30:14: case.setup success 
+ ---------------------------------------------------
+2020-04-02 15:30:36: case.submit starting 
+ ---------------------------------------------------
+2020-04-02 15:31:37: case.submit error 
+ERROR: Failed to find or download file /network/rit/misc/scratch/cesm/ns742711/test_FHIST/run/inputdata_checksum.dat
+ ---------------------------------------------------
+2020-04-02 15:32:40: case.submit starting 
+ ---------------------------------------------------
+2020-04-02 16:05:59: case.submit error 
+ERROR: Build complete is not True please rebuild the model by calling case.build
+ ---------------------------------------------------
+2020-04-02 16:08:48: case.build starting 
+ ---------------------------------------------------
+2020-04-02 16:08:54: case.build error 
+ERROR: /network/rit/lab/schiraldilab/repos/my_cesm_sandbox/cime/src/build_scripts/buildlib.mct FAILED, cat /network/rit/misc/scratch/cesm/ns742711/test_FHIST/bld/mct.bldlog.200402-160848
+ ---------------------------------------------------
+2020-04-02 16:10:06: case.build starting 
+ ---------------------------------------------------
+2020-04-02 16:10:38: case.build error 
+ERROR: /network/rit/lab/schiraldilab/repos/my_cesm_sandbox/cime/src/build_scripts/buildlib.pio FAILED, cat /network/rit/misc/scratch/cesm/ns742711/test_FHIST/bld/pio.bldlog.200402-161006
+ ---------------------------------------------------
+2020-04-02 16:41:36: case.build starting 
+ ---------------------------------------------------
+2020-04-02 16:41:42: case.build error 
+ERROR: /network/rit/lab/schiraldilab/repos/my_cesm_sandbox/cime/src/build_scripts/buildlib.pio FAILED, cat /network/rit/misc/scratch/cesm/ns742711/test_FHIST/bld/pio.bldlog.200402-164136
+ ---------------------------------------------------

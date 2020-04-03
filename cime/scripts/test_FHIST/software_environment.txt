@@ -1,0 +1,207 @@
+No Modulefiles Currently Loaded.
+
+SPACK_ENV=/network/rit/misc/software/spack/var/spack/environments/cime
+SLURM_NODELIST=uagc20-01
+MANPATH=/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/netcdf-c-4.7.3-w5u3utk6hw63ge6cutuu4tqqvzcvrj35/share/man:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/openmpi-3.1.5-fbwxlg2fryf2uuqgbage3hpln7yfkfag/share/man:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/hwloc-1.11.11-5prs6nzud4mslc4vr5thhlxembsaqxuw/share/man:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/numactl-2.0.12-5ulb6nz7hep25i4tbonzx2ijmlfxj3sz/share/man:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libxml2-2.9.9-vihyte57tn7uo5hf7g2akwscjevulcyt/share/man:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/zlib-1.2.11-2odl6uao35shp3fkft5adq3wunv74upw/share/man:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/xz-5.2.5-nrsig2gzkd5w5swxog3zfnwglvxu74sv/share/man:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libiconv-1.16-t6svs5vbt3glrknaptrfezfwl2szgeve/share/man:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/openmpi-3.1.5-fbwxlg2fryf2uuqgbage3hpln7yfkfag/share/man:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/hwloc-1.11.11-5prs6nzud4mslc4vr5thhlxembsaqxuw/share/man:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/numactl-2.0.12-5ulb6nz7hep25i4tbonzx2ijmlfxj3sz/share/man:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libxml2-2.9.9-vihyte57tn7uo5hf7g2akwscjevulcyt/share/man:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/zlib-1.2.11-2odl6uao35shp3fkft5adq3wunv74upw/share/man:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/xz-5.2.5-nrsig2gzkd5w5swxog3zfnwglvxu74sv/share/man:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libiconv-1.16-t6svs5vbt3glrknaptrfezfwl2szgeve/share/man:/network/rit/misc/software/spack/var/spack/environments/cime/.spack-env/view/share/man:/network/rit/misc/software/spack/var/spack/environments/cime/.spack-env/view/man
+SLURM_JOB_NAME=bash
+XDG_SESSION_ID=2961
+SPACK_ROOT=/network/rit/misc/software/spack
+HOSTNAME=head-01.arcc.albany.edu
+SLURM_TOPOLOGY_ADDR=uagc20-01
+SLURMD_NODENAME=uagc20-01
+SELINUX_ROLE_REQUESTED=
+SLURM_PRIO_PROCESS=0
+SLURM_SRUN_COMM_PORT=35489
+TERM=xterm-256color
+SHELL=/bin/bash
+HISTSIZE=1000
+SLURM_PTY_WIN_ROW=53
+SLURM_JOB_QOS=normal
+SSH_CLIENT=10.16.97.154 63024 22
+SLURM_TOPOLOGY_ADDR_PATTERN=node
+TMPDIR=/tmp
+CESMDATAROOT=/network/rit/misc/scratch/cesm/
+LIBRARY_PATH=/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/netcdf-c-4.7.3-w5u3utk6hw63ge6cutuu4tqqvzcvrj35/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/hdf5-1.10.6-k3ezofwcchq2nrvjexpgqrhfkmvb6ofv/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/openmpi-3.1.5-fbwxlg2fryf2uuqgbage3hpln7yfkfag/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/hwloc-1.11.11-5prs6nzud4mslc4vr5thhlxembsaqxuw/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/numactl-2.0.12-5ulb6nz7hep25i4tbonzx2ijmlfxj3sz/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libxml2-2.9.9-vihyte57tn7uo5hf7g2akwscjevulcyt/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/zlib-1.2.11-2odl6uao35shp3fkft5adq3wunv74upw/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/xz-5.2.5-nrsig2gzkd5w5swxog3zfnwglvxu74sv/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libiconv-1.16-t6svs5vbt3glrknaptrfezfwl2szgeve/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libpciaccess-0.13.5-3wzp34axawv4esivsirzonbkja7patar/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/openmpi-3.1.5-fbwxlg2fryf2uuqgbage3hpln7yfkfag/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/hwloc-1.11.11-5prs6nzud4mslc4vr5thhlxembsaqxuw/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/numactl-2.0.12-5ulb6nz7hep25i4tbonzx2ijmlfxj3sz/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libxml2-2.9.9-vihyte57tn7uo5hf7g2akwscjevulcyt/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/zlib-1.2.11-2odl6uao35shp3fkft5adq3wunv74upw/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/xz-5.2.5-nrsig2gzkd5w5swxog3zfnwglvxu74sv/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libiconv-1.16-t6svs5vbt3glrknaptrfezfwl2szgeve/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libpciaccess-0.13.5-3wzp34axawv4esivsirzonbkja7patar/lib:/network/rit/misc/software/spack/var/spack/environments/cime/.spack-env/view/lib64:/network/rit/misc/software/spack/var/spack/environments/cime/.spack-env/view/lib
+CONDA_SHLVL=0
+OMP_STACKSIZE=256M
+PYTHONUNBUFFERED=1
+SELINUX_USE_CURRENT_RANGE=
+SLURM_CPU_BIND_VERBOSE=quiet
+QTDIR=/usr/lib64/qt-3.3
+QTINC=/usr/lib64/qt-3.3/include
+SSH_TTY=/dev/pts/6
+LC_ALL=en_US.UTF-8
+SLURM_CPU_BIND_LIST=
+QT_GRAPHICSSYSTEM_CHECKED=1
+USER=ns742711
+SLURM_NNODES=1
+LD_LIBRARY_PATH=/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/netcdf-c-4.7.3-w5u3utk6hw63ge6cutuu4tqqvzcvrj35/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/hdf5-1.10.6-k3ezofwcchq2nrvjexpgqrhfkmvb6ofv/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/openmpi-3.1.5-fbwxlg2fryf2uuqgbage3hpln7yfkfag/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/hwloc-1.11.11-5prs6nzud4mslc4vr5thhlxembsaqxuw/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/numactl-2.0.12-5ulb6nz7hep25i4tbonzx2ijmlfxj3sz/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libxml2-2.9.9-vihyte57tn7uo5hf7g2akwscjevulcyt/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/zlib-1.2.11-2odl6uao35shp3fkft5adq3wunv74upw/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/xz-5.2.5-nrsig2gzkd5w5swxog3zfnwglvxu74sv/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libiconv-1.16-t6svs5vbt3glrknaptrfezfwl2szgeve/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libpciaccess-0.13.5-3wzp34axawv4esivsirzonbkja7patar/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/openmpi-3.1.5-fbwxlg2fryf2uuqgbage3hpln7yfkfag/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/hwloc-1.11.11-5prs6nzud4mslc4vr5thhlxembsaqxuw/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/numactl-2.0.12-5ulb6nz7hep25i4tbonzx2ijmlfxj3sz/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libxml2-2.9.9-vihyte57tn7uo5hf7g2akwscjevulcyt/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/zlib-1.2.11-2odl6uao35shp3fkft5adq3wunv74upw/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/xz-5.2.5-nrsig2gzkd5w5swxog3zfnwglvxu74sv/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libiconv-1.16-t6svs5vbt3glrknaptrfezfwl2szgeve/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libpciaccess-0.13.5-3wzp34axawv4esivsirzonbkja7patar/lib:/network/rit/misc/software/spack/var/spack/environments/cime/.spack-env/view/lib64:/network/rit/misc/software/spack/var/spack/environments/cime/.spack-env/view/lib
+LS_COLORS=rs=0:di=38;5;27:ln=38;5;51:mh=44;38;5;15:pi=40;38;5;11:so=38;5;13:do=38;5;5:bd=48;5;232;38;5;11:cd=48;5;232;38;5;3:or=48;5;232;38;5;9:mi=05;48;5;232;38;5;15:su=48;5;196;38;5;15:sg=48;5;11;38;5;16:ca=48;5;196;38;5;226:tw=48;5;10;38;5;16:ow=48;5;10;38;5;21:st=48;5;21;38;5;15:ex=38;5;34:*.tar=38;5;9:*.tgz=38;5;9:*.arc=38;5;9:*.arj=38;5;9:*.taz=38;5;9:*.lha=38;5;9:*.lz4=38;5;9:*.lzh=38;5;9:*.lzma=38;5;9:*.tlz=38;5;9:*.txz=38;5;9:*.tzo=38;5;9:*.t7z=38;5;9:*.zip=38;5;9:*.z=38;5;9:*.Z=38;5;9:*.dz=38;5;9:*.gz=38;5;9:*.lrz=38;5;9:*.lz=38;5;9:*.lzo=38;5;9:*.xz=38;5;9:*.bz2=38;5;9:*.bz=38;5;9:*.tbz=38;5;9:*.tbz2=38;5;9:*.tz=38;5;9:*.deb=38;5;9:*.rpm=38;5;9:*.jar=38;5;9:*.war=38;5;9:*.ear=38;5;9:*.sar=38;5;9:*.rar=38;5;9:*.alz=38;5;9:*.ace=38;5;9:*.zoo=38;5;9:*.cpio=38;5;9:*.7z=38;5;9:*.rz=38;5;9:*.cab=38;5;9:*.jpg=38;5;13:*.jpeg=38;5;13:*.gif=38;5;13:*.bmp=38;5;13:*.pbm=38;5;13:*.pgm=38;5;13:*.ppm=38;5;13:*.tga=38;5;13:*.xbm=38;5;13:*.xpm=38;5;13:*.tif=38;5;13:*.tiff=38;5;13:*.png=38;5;13:*.svg=38;5;13:*.svgz=38;5;13:*.mng=38;5;13:*.pcx=38;5;13:*.mov=38;5;13:*.mpg=38;5;13:*.mpeg=38;5;13:*.m2v=38;5;13:*.mkv=38;5;13:*.webm=38;5;13:*.ogm=38;5;13:*.mp4=38;5;13:*.m4v=38;5;13:*.mp4v=38;5;13:*.vob=38;5;13:*.qt=38;5;13:*.nuv=38;5;13:*.wmv=38;5;13:*.asf=38;5;13:*.rm=38;5;13:*.rmvb=38;5;13:*.flc=38;5;13:*.avi=38;5;13:*.fli=38;5;13:*.flv=38;5;13:*.gl=38;5;13:*.dl=38;5;13:*.xcf=38;5;13:*.xwd=38;5;13:*.yuv=38;5;13:*.cgm=38;5;13:*.emf=38;5;13:*.axv=38;5;13:*.anx=38;5;13:*.ogv=38;5;13:*.ogx=38;5;13:*.aac=38;5;45:*.au=38;5;45:*.flac=38;5;45:*.mid=38;5;45:*.midi=38;5;45:*.mka=38;5;45:*.mp3=38;5;45:*.mpc=38;5;45:*.ogg=38;5;45:*.ra=38;5;45:*.wav=38;5;45:*.axa=38;5;45:*.oga=38;5;45:*.spx=38;5;45:*.xspf=38;5;45:
+CONDA_EXE=/network/rit/lab/schiraldilab/bin/miniconda3/bin/conda
+SLURM_STEP_NUM_NODES=1
+CPATH=/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/netcdf-c-4.7.3-w5u3utk6hw63ge6cutuu4tqqvzcvrj35/include:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/hdf5-1.10.6-k3ezofwcchq2nrvjexpgqrhfkmvb6ofv/include:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/openmpi-3.1.5-fbwxlg2fryf2uuqgbage3hpln7yfkfag/include:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/hwloc-1.11.11-5prs6nzud4mslc4vr5thhlxembsaqxuw/include:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/numactl-2.0.12-5ulb6nz7hep25i4tbonzx2ijmlfxj3sz/include:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libxml2-2.9.9-vihyte57tn7uo5hf7g2akwscjevulcyt/include:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/zlib-1.2.11-2odl6uao35shp3fkft5adq3wunv74upw/include:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/xz-5.2.5-nrsig2gzkd5w5swxog3zfnwglvxu74sv/include:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libiconv-1.16-t6svs5vbt3glrknaptrfezfwl2szgeve/include:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libpciaccess-0.13.5-3wzp34axawv4esivsirzonbkja7patar/include:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/openmpi-3.1.5-fbwxlg2fryf2uuqgbage3hpln7yfkfag/include:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/hwloc-1.11.11-5prs6nzud4mslc4vr5thhlxembsaqxuw/include:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/numactl-2.0.12-5ulb6nz7hep25i4tbonzx2ijmlfxj3sz/include:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libxml2-2.9.9-vihyte57tn7uo5hf7g2akwscjevulcyt/include:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/zlib-1.2.11-2odl6uao35shp3fkft5adq3wunv74upw/include:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/xz-5.2.5-nrsig2gzkd5w5swxog3zfnwglvxu74sv/include:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libiconv-1.16-t6svs5vbt3glrknaptrfezfwl2szgeve/include:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libpciaccess-0.13.5-3wzp34axawv4esivsirzonbkja7patar/include:/network/rit/misc/software/spack/var/spack/environments/cime/.spack-env/view/include
+SRUN_DEBUG=3
+SLURM_JOBID=856969
+SPACK_LD_LIBRARY_PATH=/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/openmpi-3.1.5-fbwxlg2fryf2uuqgbage3hpln7yfkfag/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/hwloc-1.11.11-5prs6nzud4mslc4vr5thhlxembsaqxuw/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/numactl-2.0.12-5ulb6nz7hep25i4tbonzx2ijmlfxj3sz/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libxml2-2.9.9-vihyte57tn7uo5hf7g2akwscjevulcyt/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/zlib-1.2.11-2odl6uao35shp3fkft5adq3wunv74upw/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/xz-5.2.5-nrsig2gzkd5w5swxog3zfnwglvxu74sv/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libiconv-1.16-t6svs5vbt3glrknaptrfezfwl2szgeve/lib:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libpciaccess-0.13.5-3wzp34axawv4esivsirzonbkja7patar/lib:/network/rit/misc/software/spack/var/spack/environments/cime/.spack-env/view/lib64:/network/rit/misc/software/spack/var/spack/environments/cime/.spack-env/view/lib
+COBBLER_SERVER=spacewalk.itsli.albany.edu
+SLURM_NTASKS=1
+SLURM_LAUNCH_NODE_IPADDR=169.226.65.82
+SLURM_STEP_ID=0
+_CE_CONDA=
+SPACK_LOADED_HASHES=w5u3utk6hw63ge6cutuu4tqqvzcvrj35:k3ezofwcchq2nrvjexpgqrhfkmvb6ofv:fbwxlg2fryf2uuqgbage3hpln7yfkfag:5prs6nzud4mslc4vr5thhlxembsaqxuw:5ulb6nz7hep25i4tbonzx2ijmlfxj3sz:vihyte57tn7uo5hf7g2akwscjevulcyt:2odl6uao35shp3fkft5adq3wunv74upw:nrsig2gzkd5w5swxog3zfnwglvxu74sv:t6svs5vbt3glrknaptrfezfwl2szgeve:3wzp34axawv4esivsirzonbkja7patar:fbwxlg2fryf2uuqgbage3hpln7yfkfag:5prs6nzud4mslc4vr5thhlxembsaqxuw:5ulb6nz7hep25i4tbonzx2ijmlfxj3sz:vihyte57tn7uo5hf7g2akwscjevulcyt:2odl6uao35shp3fkft5adq3wunv74upw:nrsig2gzkd5w5swxog3zfnwglvxu74sv:t6svs5vbt3glrknaptrfezfwl2szgeve:3wzp34axawv4esivsirzonbkja7patar
+MAIL=/var/spool/mail/ns742711
+PATH=/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/netcdf-c-4.7.3-w5u3utk6hw63ge6cutuu4tqqvzcvrj35/bin:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/hdf5-1.10.6-k3ezofwcchq2nrvjexpgqrhfkmvb6ofv/bin:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/openmpi-3.1.5-fbwxlg2fryf2uuqgbage3hpln7yfkfag/bin:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/hwloc-1.11.11-5prs6nzud4mslc4vr5thhlxembsaqxuw/bin:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/numactl-2.0.12-5ulb6nz7hep25i4tbonzx2ijmlfxj3sz/bin:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libxml2-2.9.9-vihyte57tn7uo5hf7g2akwscjevulcyt/bin:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/xz-5.2.5-nrsig2gzkd5w5swxog3zfnwglvxu74sv/bin:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libiconv-1.16-t6svs5vbt3glrknaptrfezfwl2szgeve/bin:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/openmpi-3.1.5-fbwxlg2fryf2uuqgbage3hpln7yfkfag/bin:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/hwloc-1.11.11-5prs6nzud4mslc4vr5thhlxembsaqxuw/bin:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/numactl-2.0.12-5ulb6nz7hep25i4tbonzx2ijmlfxj3sz/bin:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libxml2-2.9.9-vihyte57tn7uo5hf7g2akwscjevulcyt/bin:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/xz-5.2.5-nrsig2gzkd5w5swxog3zfnwglvxu74sv/bin:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libiconv-1.16-t6svs5vbt3glrknaptrfezfwl2szgeve/bin:/network/rit/lab/schiraldilab/bin/node-v10.16.0-linux-x64/bin:/network/rit/misc/software/ffmpeg_build/bin:/network/rit/misc/software/spack/var/spack/environments/cime/.spack-env/view/bin:/network/rit/misc/software/spack/bin:/network/rit/lab/schiraldilab/bin/node-v10.16.0-linux-x64/bin:/network/rit/misc/software/ffmpeg_build/bin:/network/rit/lab/schiraldilab/bin/miniconda3/condabin:/usr/lib64/qt-3.3/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin
+SLURM_TASKS_PER_NODE=1
+SLURM_STEP_LAUNCHER_PORT=35489
+SLURM_WORKING_CLUSTER=rit:slurm7.arcc.albany.edu:6817:8704:101
+SLURM_JOB_ID=856969
+MLM_LICENSE_FILE=27000@matlab.univ.albany.edu
+PWD=/network/rit/lab/schiraldilab/repos/my_cesm_sandbox/cime/scripts/test_FHIST
+SLURM_STEPID=0
+SLURM_JOB_USER=ns742711
+SLURM_SRUN_COMM_HOST=169.226.65.82
+SLURM_CPU_BIND_TYPE=none
+LANG=C.UTF-8
+MODULEPATH=/usr/share/Modules/modulefiles:/etc/modulefiles
+SLURM_UMASK=0007
+SLURM_PTY_WIN_COL=180
+CIMEROOT=/network/rit/lab/schiraldilab/repos/my_cesm_sandbox/cime/scripts/Tools/../..
+LOADEDMODULES=
+SLURM_JOB_UID=98926
+SLURM_NODEID=0
+SELINUX_LEVEL_REQUESTED=
+SLURM_SUBMIT_DIR=/network/rit/lab/schiraldilab/repos/my_cesm_sandbox/cime/scripts
+SLURM_STEP_RESV_PORTS=24840-24841
+SLURM_NPROCS=1
+SLURM_TASK_PID=15123
+SLURM_CPUS_ON_NODE=64
+_CE_M=
+HISTCONTROL=ignoredups
+SLURM_PROCID=0
+SLURM_JOB_NODELIST=uagc20-01
+SHLVL=3
+HOME=/network/rit/home/ns742711
+SLURM_PTY_PORT=35183
+SLURM_LOCALID=0
+SLURM_CLUSTER_NAME=rit
+SLURM_JOB_CPUS_PER_NODE=64
+SLURM_JOB_GID=972
+SLURM_SUBMIT_HOST=head-01.arcc.albany.edu
+SLURM_GTIDS=0
+SLURM_JOB_PARTITION=test
+CONDA_PYTHON_EXE=/network/rit/lab/schiraldilab/bin/miniconda3/bin/python
+LOGNAME=ns742711
+QTLIB=/usr/lib64/qt-3.3/lib
+CVS_RSH=ssh
+SLURM_STEP_NUM_TASKS=1
+LC_CTYPE=en_US.UTF-8
+SSH_CONNECTION=10.16.97.154 63024 169.226.65.82 22
+SLURM_JOB_ACCOUNT=rit
+MODULESHOME=/usr/share/Modules
+SLURM_JOB_NUM_NODES=1
+OMP_NUM_THREADS=1
+PKG_CONFIG_PATH=/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/netcdf-c-4.7.3-w5u3utk6hw63ge6cutuu4tqqvzcvrj35/lib/pkgconfig:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/openmpi-3.1.5-fbwxlg2fryf2uuqgbage3hpln7yfkfag/lib/pkgconfig:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/hwloc-1.11.11-5prs6nzud4mslc4vr5thhlxembsaqxuw/lib/pkgconfig:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/numactl-2.0.12-5ulb6nz7hep25i4tbonzx2ijmlfxj3sz/lib/pkgconfig:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libxml2-2.9.9-vihyte57tn7uo5hf7g2akwscjevulcyt/lib/pkgconfig:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/zlib-1.2.11-2odl6uao35shp3fkft5adq3wunv74upw/lib/pkgconfig:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/xz-5.2.5-nrsig2gzkd5w5swxog3zfnwglvxu74sv/lib/pkgconfig:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libpciaccess-0.13.5-3wzp34axawv4esivsirzonbkja7patar/lib/pkgconfig:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/openmpi-3.1.5-fbwxlg2fryf2uuqgbage3hpln7yfkfag/lib/pkgconfig:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/hwloc-1.11.11-5prs6nzud4mslc4vr5thhlxembsaqxuw/lib/pkgconfig:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/numactl-2.0.12-5ulb6nz7hep25i4tbonzx2ijmlfxj3sz/lib/pkgconfig:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libxml2-2.9.9-vihyte57tn7uo5hf7g2akwscjevulcyt/lib/pkgconfig:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/zlib-1.2.11-2odl6uao35shp3fkft5adq3wunv74upw/lib/pkgconfig:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/xz-5.2.5-nrsig2gzkd5w5swxog3zfnwglvxu74sv/lib/pkgconfig:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libpciaccess-0.13.5-3wzp34axawv4esivsirzonbkja7patar/lib/pkgconfig:/network/rit/misc/software/spack/var/spack/environments/cime/.spack-env/view/lib64/pkgconfig:/network/rit/misc/software/spack/var/spack/environments/cime/.spack-env/view/lib/pkgconfig
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+SLURM_STEP_TASKS_PER_NODE=1
+MPI_TYPE_DEPTH=16
+ACLOCAL_PATH=/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libxml2-2.9.9-vihyte57tn7uo5hf7g2akwscjevulcyt/share/aclocal:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libxml2-2.9.9-vihyte57tn7uo5hf7g2akwscjevulcyt/share/aclocal:/network/rit/misc/software/spack/var/spack/environments/cime/.spack-env/view/share/aclocal
+SLURM_STEP_NODELIST=uagc20-01
+CMAKE_PREFIX_PATH=/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/netcdf-c-4.7.3-w5u3utk6hw63ge6cutuu4tqqvzcvrj35:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/hdf5-1.10.6-k3ezofwcchq2nrvjexpgqrhfkmvb6ofv:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/openmpi-3.1.5-fbwxlg2fryf2uuqgbage3hpln7yfkfag:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/hwloc-1.11.11-5prs6nzud4mslc4vr5thhlxembsaqxuw:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/numactl-2.0.12-5ulb6nz7hep25i4tbonzx2ijmlfxj3sz:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libxml2-2.9.9-vihyte57tn7uo5hf7g2akwscjevulcyt:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/zlib-1.2.11-2odl6uao35shp3fkft5adq3wunv74upw:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/xz-5.2.5-nrsig2gzkd5w5swxog3zfnwglvxu74sv:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libiconv-1.16-t6svs5vbt3glrknaptrfezfwl2szgeve:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libpciaccess-0.13.5-3wzp34axawv4esivsirzonbkja7patar:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/openmpi-3.1.5-fbwxlg2fryf2uuqgbage3hpln7yfkfag:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/hwloc-1.11.11-5prs6nzud4mslc4vr5thhlxembsaqxuw:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/numactl-2.0.12-5ulb6nz7hep25i4tbonzx2ijmlfxj3sz:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libxml2-2.9.9-vihyte57tn7uo5hf7g2akwscjevulcyt:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/zlib-1.2.11-2odl6uao35shp3fkft5adq3wunv74upw:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/xz-5.2.5-nrsig2gzkd5w5swxog3zfnwglvxu74sv:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libiconv-1.16-t6svs5vbt3glrknaptrfezfwl2szgeve:/network/rit/misc/software/spack/opt/spack/linux-ol7-skylake_avx512/gcc-8.3.1/libpciaccess-0.13.5-3wzp34axawv4esivsirzonbkja7patar:/network/rit/misc/software/spack/var/spack/environments/cime/.spack-env/view
+XDG_RUNTIME_DIR=/run/user/98926
+DISPLAY=localhost:18.0
+SLURM_CPU_BIND=quiet,none
+BASH_FUNC_module()=() {  eval `/usr/bin/modulecmd bash $*`
+}
+BASH_FUNC_spack()=() {  if [ -n "${LD_LIBRARY_PATH-}" ]; then
+ export SPACK_LD_LIBRARY_PATH=$LD_LIBRARY_PATH;
+ fi;
+ if [ -n "${DYLD_LIBRARY_PATH-}" ]; then
+ export SPACK_DYLD_LIBRARY_PATH=$DYLD_LIBRARY_PATH;
+ fi;
+ if [ -n "${ZSH_VERSION:-}" ]; then
+ emulate -L sh;
+ fi;
+ _sp_flags="";
+ while [ ! -z ${1+x} ] && [ "${1#-}" != "${1}" ]; do
+ _sp_flags="$_sp_flags $1";
+ shift;
+ done;
+ if [ -n "$_sp_flags" ] && [ "${_sp_flags#*h}" != "${_sp_flags}" ] || [ "${_sp_flags#*V}" != "${_sp_flags}" ]; then
+ command spack $_sp_flags "$@";
+ return;
+ fi;
+ _sp_subcommand="";
+ if [ ! -z ${1+x} ]; then
+ _sp_subcommand="$1";
+ shift;
+ fi;
+ case $_sp_subcommand in 
+ "cd")
+ _sp_arg="";
+ if [ -n "$1" ]; then
+ _sp_arg="$1";
+ shift;
+ fi;
+ if [ "$_sp_arg" = "-h" ] || [ "$_sp_arg" = "--help" ]; then
+ command spack cd -h;
+ else
+ LOC="$(spack location $_sp_arg "$@")";
+ if [ -d "$LOC" ]; then
+ cd "$LOC";
+ else
+ return 1;
+ fi;
+ fi;
+ return
+ ;;
+ "env")
+ _sp_arg="";
+ if [ -n "$1" ]; then
+ _sp_arg="$1";
+ shift;
+ fi;
+ if [ "$_sp_arg" = "-h" ] || [ "$_sp_arg" = "--help" ]; then
+ command spack env -h;
+ else
+ case $_sp_arg in 
+ activate)
+ _a=" $@";
+ if [ -z ${1+x} ] || [ "${_a#* --sh}" != "$_a" ] || [ "${_a#* --csh}" != "$_a" ] || [ "${_a#* -h}" != "$_a" ] || [ "${_a#* --help}" != "$_a" ]; then
+ command spack env activate "$@";
+ else
+ eval $(command spack $_sp_flags env activate --sh "$@");
+ fi
+ ;;
+ deactivate)
+ _a=" $@";
+ if [ "${_a#* --sh}" != "$_a" ] || [ "${_a#* --csh}" != "$_a" ]; then
+ command spack env deactivate "$@";
+ else
+ if [ -n "$*" ]; then
+ command spack env deactivate -h;
+ else
+ eval $(command spack $_sp_flags env deactivate --sh);
+ fi;
+ fi
+ ;;
+ *)
+ command spack env $_sp_arg "$@"
+ ;;
+ esac;
+ fi;
+ return
+ ;;
+ "load" | "unload")
+ _a=" $@";
+ if [ "${_a#* --sh}" != "$_a" ] || [ "${_a#* --csh}" != "$_a" ] || [ "${_a#* -h}" != "$_a" ] || [ "${_a#* --help}" != "$_a" ]; then
+ command spack $_sp_flags $_sp_subcommand "$@";
+ else
+ eval $(command spack $_sp_flags $_sp_subcommand --sh "$@" ||                     echo "return 1");
+ fi
+ ;;
+ *)
+ command spack $_sp_flags $_sp_subcommand "$@"
+ ;;
+ esac
+}
+_=/usr/bin/env
